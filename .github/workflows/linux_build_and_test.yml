@@ -32,3 +32,4 @@ jobs:
         with:
           files: |
             ${{ github.workspace }}/build/test_logs/junit.xml
+
